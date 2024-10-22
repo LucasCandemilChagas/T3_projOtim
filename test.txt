@@ -1,0 +1,15 @@
+python salao.py 4 3 2
+232
+Time: 0.895
+
+python salao.py 4 3 3
+712
+Time: 2.547
+
+python salao.py 4 3 4
+184
+Time: 3.356
+
+python salao.py 5 3 3
+14760
+Time: 149.514
